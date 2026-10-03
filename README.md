@@ -2,11 +2,11 @@
 
 **🛠️ Software Engineer | ⚙️ Backend & Full-Stack Development | 🔐 Security Platforms**
 
-🌐 [Live Site](https://kavysan.github.io/portfolio/) • 💼 [LinkedIn](https://www.linkedin.com/in/kavysan/) • 📧 [Email](mailto:kavysan1999@gmail.com) • 🐙 [GitHub](https://github.com/Kavysan)
+🌐 [Live Site](https://kavysan.github.io/Portfolio/) • 💼 [LinkedIn](https://www.linkedin.com/in/kavysan/) • 📧 [Email](mailto:kavysan1999@gmail.com) • 🐙 [GitHub](https://github.com/Kavysan)
 
 Personal portfolio website for Kavya Santha Kumar, a software engineer in Fremont, CA who builds backend services, full-stack applications, and security platforms with Python, FastAPI, Flask, React, TypeScript, and PostgreSQL.
 
-🌐 **Live site:** https://kavysan.github.io/portfolio/
+🌐 **Live site:** https://kavysan.github.io/Portfolio/
 
 ---
 
